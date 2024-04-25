@@ -1,0 +1,10 @@
+"""Consider where house inventory(dataStorage) system.
+1.	Create an array consisiting of product code and corresending quantity shape
+2.	Determine the dimension of the inventary array
+3.	Give product code search through the array to find the quantity of product
+4.	Split the array to 2 arrays
+5.	retrive the quantity using array index
+6.	Check the shape of inventary array
+7.	reshape the inventary array into 2D array
+8.	Create a copy of inventary array
+9.	Add new items to the inventary """
