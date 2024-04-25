@@ -1,0 +1,3 @@
+"""create a numpy array categarious representing different subjects:maths, science, history, english, art Create a numpy array course with avg score outof 100 each subject:85,70,75,90,80
+plot a bar graph representing subjects and its score color each bar differently
+add label tittle and modify the grid line to display dash slide """
